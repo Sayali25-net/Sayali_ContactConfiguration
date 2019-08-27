@@ -15,7 +15,8 @@ ContactConfiguration.Tests- Unit test solution.
 How to run this application :
 
 1.Run the script in Sql server database.
+2.Connection sring named 'ContactConfigurationEntities'has to be edited in Web.config to the name of the database server. 
 
-2.Copy the folder structure of ContactConfiguration and host it on IIS providing this folder as the Physical path.
+3.Copy the folder structure of ContactConfiguration and host it on IIS providing this folder as the Physical path.
 Or it can be hosted using Visual Studio.
 
